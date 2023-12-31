@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Poppins:ital,wght@0,100;200;300;400;500;600;700;800;900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik+Maps&family=Source+Code+Pro&family=Zilla+Slab:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&display=swap');
+
+.row{
+    position: relative;
+    align-items: center;
+}
+.container-fluid{
+    align-items: center;
+    position: absolute;
+    justify-content: center;
+    display: flex;
+ }
+ .aryan{
+    color: black;
+  } 
+  h5{
+     text-align: center;
+     position: absolute;
+     align-items: center;
+     justify-content: center;
+     margin-left: 60px;
+     padding-top: 350px;
+     color: black;
+  }
+  h6{
+    text-align: center;
+     position: absolute;
+     align-items: center;
+     justify-content: center;
+     color: black;
+     margin-left: 95px;
+     padding-top: 325px;
+  }
+  .class{
+    text-align: center;
+     position: absolute;
+     align-items: center;
+     justify-content: center;
+     color: black;
+     margin-left: 85px;
+     padding-top: 380px;
+  }
+  .Insta{
+    border:none;
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  
